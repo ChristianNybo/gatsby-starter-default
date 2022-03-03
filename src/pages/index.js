@@ -24,7 +24,7 @@ const IndexPage = () => (
       <Link to="/using-typescript/">Go to "Using TypeScript"</Link> <br />
       <Link to="/using-ssr">Go to "Using SSR"</Link> <br />
       <Link to="/using-dsg">Go to "Using DSG"</Link><br />
-      <Link to="/data.page/">Go to Data Page</Link>
+      <Link to="/data-page/">Go to Data Page</Link>
     </p>
   </Layout>
 )
